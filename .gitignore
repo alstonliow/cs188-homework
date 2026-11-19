@@ -1,0 +1,15 @@
+# The Berkeley Pac-Man projects' licence asks that solutions not be published;
+# this repository is public, so all project code stays local.
+search/*
+!search/README.md
+multiagent/*
+!multiagent/README.md
+reinforcement/*
+!reinforcement/README.md
+tracking/*
+!tracking/README.md
+machinelearning/*
+!machinelearning/README.md
+
+# macOS
+.DS_Store
